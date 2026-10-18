@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#FF07070B</color>
+    <color name="ic_launcher_background">#FF0D0D16</color>
+    <color name="widget_scrim">#E6101018</color>
+</resources>
